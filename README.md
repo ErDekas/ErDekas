@@ -22,4 +22,4 @@
 
 ## 📊 Mis estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ErDekas&show_icons=true&theme=dracula) ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ErDekas&layout=donut-chart)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ErDekas&show_icons=true&theme=onedark) ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ErDekas&layout=donut)
