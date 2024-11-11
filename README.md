@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Pablo (alias Deka)
 
-💻 Desarrollador en crecimiento con 18 años y apasionado por la programación. Actualmente estudio **Desarrollo de Aplicaciones Web (DAW)** en Granada, con la meta de convertirme en un **Full Stack Developer** especializado en JavaScript.
+💻 Desarrollador en crecimiento con 19 años y apasionado por la programación. Actualmente estudio **Desarrollo de Aplicaciones Web (DAW)** en Granada, con la meta de convertirme en un **Full Stack Developer** especializado en JavaScript.
 
 ## Mis intereses:
 - **Frontend & Backend**: Explorando JavaScript en todas sus formas, desde el desarrollo de interfaces interactivas hasta el manejo de bases de datos.
